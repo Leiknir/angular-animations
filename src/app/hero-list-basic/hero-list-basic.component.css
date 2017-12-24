@@ -1,0 +1,16 @@
+ul {
+  list-style: none;
+  margin-top: 150px;
+  padding: 0;
+  width: 100%;
+}
+
+li {
+  margin: 0 auto;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 2%;
+  width: 200px;
+  cursor: pointer;
+  border-radius: 6px;
+}
